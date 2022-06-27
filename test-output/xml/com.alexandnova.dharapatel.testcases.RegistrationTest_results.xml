@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Registration"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.756">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc0001_new_user_registration_page_test"
+                time="2.027"
+                classname="com.alexandnova.dharapatel.testcases.RegistrationTest">
+            </testcase>
+            <testcase
+                name="tc0002_new_user_registration_test"
+                time="4.729"
+                classname="com.alexandnova.dharapatel.testcases.RegistrationTest">
+            </testcase>
+</testsuite>
